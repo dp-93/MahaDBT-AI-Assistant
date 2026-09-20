@@ -11,7 +11,7 @@ st.set_page_config(page_title="Maha Schemes Assistant", page_icon="🏛️", lay
 st.title("🏛️ Maharashtra Education Schemes Assistant")
 
 # 2. Setup SDK & Config
-st.secrets["GEMINI_API_KEY"]
+os.environ["GEMINI_API_KEY"] = st.secrets["GEMINI_API_KEY"]
 client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
 PRIMARY_MODEL = "gemini-3.8-flash"
