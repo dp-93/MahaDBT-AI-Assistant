@@ -1,0 +1,34 @@
+[
+  {
+    "role": "user",
+    "content": "what are the schemes document has and who will be benefitted with these schemes"
+  },
+  {
+    "role": "assistant",
+    "content": "Both endpoints are currently under peak load. Please retry in a moment. (503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}})"
+  },
+  {
+    "role": "user",
+    "content": "what are the schemes document has and who will be benefitted with these schemes"
+  },
+  {
+    "role": "assistant",
+    "content": "Based on the provided context, the document contains the following three schemes and details on who will be benefitted:\n\n**1. Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna**\n* **Who will be benefitted:** Students belonging to economically weaker sections (with an annual family income up to/less than Rs. 8 Lakhs and who are domiciles/residents of Maharashtra state) pursuing professional degree/diploma courses. \n* **Benefits:** 50% of tuition fees and 50% of exam fees are reimbursed to the student's bank account. *(Note: The context also mentions a separate hostel maintenance allowance scheme for specific regions, which provides Rs. 30,000 for 10 months for MMRDA/PMRDA/Aurangabad/Nagpur regions and Rs. 20,000 for 10 months for other regions).*\n\n**2. State Government Open Merit Scholarship**\n* **Who will be benefitted:** Meritorious students who have secured 60% or more marks in the HSC (12th standard) examination, are enrolled in a full-time graduation course, and are domiciles of Maharashtra state. There is no income limit for this specific scholarship.\n* **Benefits:** A scholarship amount of Rs. 1000 per annum is awarded to the selected students.\n\n**3. Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna**\n* **Who will be benefitted:** Students studying in professional courses who reside in hostels, have an annual family income of up to Rs. 8 Lakhs, and are residents/domiciles of Maharashtra."
+  },
+  {
+    "role": "user",
+    "content": "what if I need help in tution fee concession"
+  },
+  {
+    "role": "assistant",
+    "content": "Based on the provided context, if you need help with tuition fees, you can apply for the **Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna** scheme (offered by the Higher and Technical Education Department, Government of Maharashtra). \n\n**Eligibility and Benefits for this scheme:**\n* **Objective:** To provide financial assistance to students belonging to economically weaker sections for pursuing professional degree/diploma courses.\n* **Income Eligibility:** Annual family income must be less than or equal to Rs. 8 Lakhs.\n* **Domicile Eligibility:** The applicant must be a domicile of Maharashtra state.\n* **Benefits:** 50% of tuition fees and 50% of exam fees are reimbursed to the student's bank account."
+  },
+  {
+    "role": "user",
+    "content": "What are the specific Hosteller maintenance allowances for Group I through Group IV under the Social Justice Department schemes?"
+  },
+  {
+    "role": "assistant",
+    "content": "Based on the provided context, the Hosteller maintenance allowances (per month) for Group I through Group IV are:\n\n* **Group I:** ₹ 1200\n* **Group II:** ₹ 820\n* **Group III:** ₹ 570\n* **Group IV:** ₹ 380"
+  }
+]

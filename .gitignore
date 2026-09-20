@@ -1,0 +1,13 @@
+# Python environment & cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Local secrets & environment files
+.env
+.streamlit/secrets.toml
+
+# Operating system files
+.DS_Store
+Thumbs.db
